@@ -1,4 +1,4 @@
-#find cube using lamba
+#find cube of a number using lamba
 
 cub = lambda x: x*x*x
 print(cub(5))
