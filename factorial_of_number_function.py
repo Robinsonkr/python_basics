@@ -18,5 +18,10 @@ def factorial(num):
 
 		return factorial
 
-num = 1
+num = 5
 print(factorial(num))
+
+"""
+120
+
+"""

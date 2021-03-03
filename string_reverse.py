@@ -1,6 +1,17 @@
 #reverse a String in Python
-txt = "Hello World"[::-1]
-print(txt)
+txt = "Hello World"
+
+reverse_string = txt[::-1]
+
+print(reverse_string)
+
+"""
+def my_function(x):
+  return x[::-1]
+
+print(my_function("Hello world"))
+
+"""
 
 
 """
